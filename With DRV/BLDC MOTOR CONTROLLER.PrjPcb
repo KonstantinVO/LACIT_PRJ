@@ -159,6 +159,27 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HDHVKCGQ
 
+[Document8]
+DocumentPath=BLDC-FTDI.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ODWDIHSB
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 20-30-01-PRJ-Power Module\Design Rule Check - BLDC MOTOR CONTROLLER.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
