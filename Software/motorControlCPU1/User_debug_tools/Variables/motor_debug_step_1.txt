@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportImportMemento.1>
+<VarMeta IMemento.internal.id="EnableFlag"/>
+<VarMeta IMemento.internal.id="SpeedRef"/>
+<VarMeta IMemento.internal.id="VdTesting"/>
+<VarMeta IMemento.internal.id="VqTesting"/>
+<VarMeta IMemento.internal.id="IdRef"/>
+<VarMeta IMemento.internal.id="IqRef"/>
+<VarMeta IMemento.internal.id="DlogCh1"/>
+<VarMeta IMemento.internal.id="DlogCh2"/>
+<VarMeta IMemento.internal.id="DlogCh3"/>
+<VarMeta IMemento.internal.id="DlogCh4"/>
+</ExportImportMemento.1>
