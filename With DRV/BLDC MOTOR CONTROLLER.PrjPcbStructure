@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=BLDC-CONNECTORS.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=BLDC-CONNECTORS.SchDoc|FileName=BLDC-CONTROLLET.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BLDC-CONNECTORS.SchDoc|FileName=BLDC-DRIVER.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BLDC-CONNECTORS.SchDoc|FileName=BLDC-FTDI.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BLDC-CONNECTORS.SchDoc|FileName=BLDC-MOSFET.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BLDC-CONNECTORS.SchDoc|FileName=BLDC-PWR-CONROLLER.SchDoc|SheetNumber=4
